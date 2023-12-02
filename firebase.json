@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "printpontprueba",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
